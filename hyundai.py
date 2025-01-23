@@ -20,7 +20,7 @@ def elantra(update,context):
 
 🚗 **EuropeGas** yordamida, avtomobilingizni yanada samarali va ekologik toza qilish mumkin!  
 Maslahatlar va buyurtmalar uchun bizga murojaat qiling! 📞💬
-📞 Telefon: +998 90 284 99 99
+📞 Telefon: +998 90 462 47 11
 """
     )
         
@@ -41,7 +41,7 @@ def sonata(update,context):
 
 🚗 **EuropeGas** yordamida, avtomobilingizni yanada samarali va ekologik toza qilish mumkin!  
 Maslahatlar va buyurtmalar uchun bizga murojaat qiling! 📞💬
-📞 Telefon: +998 90 284 99 99
+📞 Telefon: +998 90 462 47 11
 """
     )
         
@@ -62,7 +62,7 @@ def Tucson(update,context):
 
 🚗 **EuropeGas** yordamida, avtomobilingizni yanada samarali va ekologik toza qilish mumkin!  
 Maslahatlar va buyurtmalar uchun bizga murojaat qiling! 📞💬
-📞 Telefon: +998 90 284 99 99
+📞 Telefon: +998 90 462 47 11
 """
     )
         
@@ -83,6 +83,6 @@ def Palisade(update,context):
 
 🚗 **EuropeGas** yordamida, avtomobilingizni yanada samarali va ekologik toza qilish mumkin!  
 Maslahatlar va buyurtmalar uchun bizga murojaat qiling! 📞💬
-📞 Telefon: +998 90 284 99 99
+📞 Telefon: +998 90 462 47 11
 """
     )

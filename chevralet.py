@@ -16,7 +16,7 @@ def Nexia2(update,context):
 
 🚗 **EuropeGas** yordamida, avtomobilingizni yanada samarali va ekologik toza qilish mumkin!  
 Maslahatlar va buyurtmalar uchun bizga murojaat qiling! 📞💬
-📞 Telefon: +998 90 284 99 99
+📞 Telefon: +998 90 462 47 11
 """
     )
 
@@ -37,7 +37,7 @@ def Nexia3(update,context):
 
 🚗 **EuropeGas** yordamida, avtomobilingizni yanada samarali va ekologik toza qilish mumkin!  
 Maslahatlar va buyurtmalar uchun bizga murojaat qiling! 📞💬
-📞 Telefon: +998 90 284 99 99
+📞 Telefon: +998 90 462 47 11
 """
     )
 
@@ -58,7 +58,7 @@ def gentra(update,context):
 
 🚗 **EuropeGas** yordamida, avtomobilingizni yanada samarali va ekologik toza qilish mumkin!  
 Maslahatlar va buyurtmalar uchun bizga murojaat qiling! 📞💬
-📞 Telefon: +998 90 284 99 99
+📞 Telefon: +998 90 462 47 11
 """
     )
 
@@ -80,7 +80,7 @@ def cobalt(update,context):
 
 🚗 **EuropeGas** yordamida, avtomobilingizni yanada samarali va ekologik toza qilish mumkin!  
 Maslahatlar va buyurtmalar uchun bizga murojaat qiling! 📞💬
-📞 Telefon: +998 90 284 99 99
+📞 Telefon: +998 90 462 47 11
 """
     )
 
@@ -101,7 +101,7 @@ def tracer(update,context):
 
 🚗 **EuropeGas** yordamida, avtomobilingizni yanada samarali va ekologik toza qilish mumkin!  
 Maslahatlar va buyurtmalar uchun bizga murojaat qiling! 📞💬
-📞 Telefon: +998 90 284 99 99
+📞 Telefon: +998 90 462 47 11
 """
     )
 
@@ -123,7 +123,7 @@ def onix(update,context):
 
 🚗 **EuropeGas** yordamida, avtomobilingizni yanada samarali va ekologik toza qilish mumkin!  
 Maslahatlar va buyurtmalar uchun bizga murojaat qiling! 📞💬
-📞 Telefon: +998 90 284 99 99
+📞 Telefon: +998 90 462 47 11
 """
     )
 
@@ -144,7 +144,7 @@ def monza(update,context):
 
 🚗 **EuropeGas** yordamida, avtomobilingizni yanada samarali va ekologik toza qilish mumkin!  
 Maslahatlar va buyurtmalar uchun bizga murojaat qiling! 📞💬
-📞 Telefon: +998 90 284 99 99
+📞 Telefon: +998 90 462 47 11
 """
     )
 
@@ -165,7 +165,7 @@ def malibu1(update,context):
 
 🚗 **EuropeGas** yordamida, avtomobilingizni yanada samarali va ekologik toza qilish mumkin!  
 Maslahatlar va buyurtmalar uchun bizga murojaat qiling! 📞💬
-📞 Telefon: +998 90 284 99 99
+📞 Telefon: +998 90 462 47 11
 """
     )
 
@@ -187,7 +187,7 @@ def equinox1_2(update,context):
 
 🚗 **EuropeGas** yordamida, avtomobilingizni yanada samarali va ekologik toza qilish mumkin!  
 Maslahatlar va buyurtmalar uchun bizga murojaat qiling! 📞💬
-📞 Telefon: +998 90 284 99 99
+📞 Telefon: +998 90 462 47 11
 """
     )
 
@@ -208,6 +208,6 @@ def malibu2(update,context):
 
 🚗 **EuropeGas** yordamida, avtomobilingizni yanada samarali va ekologik toza qilish mumkin!  
 Maslahatlar va buyurtmalar uchun bizga murojaat qiling! 📞💬
-📞 Telefon: +998 90 284 99 99
+📞 Telefon: +998 90 462 47 11
 """
     )

@@ -24,7 +24,7 @@ def sonet(update,context):
 
 🚗 **EuropeGas** yordamida, avtomobilingizni yanada samarali va ekologik toza qilish mumkin!  
 Maslahatlar va buyurtmalar uchun bizga murojaat qiling! 📞💬
-📞 Telefon: +998 90 284 99 99
+📞 Telefon: +998 90 462 47 11
 """
     )
 
@@ -46,7 +46,7 @@ def Cerato(update,context):
 
 🚗 **EuropeGas** yordamida, avtomobilingizni yanada samarali va ekologik toza qilish mumkin!  
 Maslahatlar va buyurtmalar uchun bizga murojaat qiling! 📞💬
-📞 Telefon: +998 90 284 99 99
+📞 Telefon: +998 90 462 47 11
 """
     )
 
@@ -67,7 +67,7 @@ def k5(update,context):
 
 🚗 **EuropeGas** yordamida, avtomobilingizni yanada samarali va ekologik toza qilish mumkin!  
 Maslahatlar va buyurtmalar uchun bizga murojaat qiling! 📞💬
-📞 Telefon: +998 90 284 99 99
+📞 Telefon: +998 90 462 47 11
 """
     )
 
@@ -88,7 +88,7 @@ def k8(update,context):
 
 🚗 **EuropeGas** yordamida, avtomobilingizni yanada samarali va ekologik toza qilish mumkin!  
 Maslahatlar va buyurtmalar uchun bizga murojaat qiling! 📞💬
-📞 Telefon: +998 90 284 99 99
+📞 Telefon: +998 90 462 47 11
 """
     )
         
@@ -109,7 +109,7 @@ def k9(update,context):
 
 🚗 **EuropeGas** yordamida, avtomobilingizni yanada samarali va ekologik toza qilish mumkin!  
 Maslahatlar va buyurtmalar uchun bizga murojaat qiling! 📞💬
-📞 Telefon: +998 90 284 99 99
+📞 Telefon: +998 90 462 47 11
 """
     )
         
@@ -124,7 +124,7 @@ def sorento(update,context):
 
 🚗 **EuropeGas** yordamida, avtomobilingizni yanada samarali va ekologik toza qilish mumkin!  
 Maslahatlar va buyurtmalar uchun bizga murojaat qiling! 📞💬
-📞 Telefon: +998 90 284 99 99
+📞 Telefon: +998 90 462 47 11
 """
     )
         
@@ -145,7 +145,7 @@ def Bongo(update,context):
 
 🚗 **EuropeGas** yordamida, avtomobilingizni yanada samarali va ekologik toza qilish mumkin!  
 Maslahatlar va buyurtmalar uchun bizga murojaat qiling! 📞💬
-📞 Telefon: +998 90 284 99 99
+📞 Telefon: +998 90 462 47 11
 """
     )
         
@@ -167,7 +167,7 @@ def sportage(update,context):
 
 🚗 **EuropeGas** yordamida, avtomobilingizni yanada samarali va ekologik toza qilish mumkin!  
 Maslahatlar va buyurtmalar uchun bizga murojaat qiling! 📞💬
-📞 Telefon: +998 90 284 99 99
+📞 Telefon: +998 90 462 47 11
 """
     )
 
@@ -189,7 +189,7 @@ def carnival(update,context):
 
 🚗 **EuropeGas** yordamida, avtomobilingizni yanada samarali va ekologik toza qilish mumkin!  
 Maslahatlar va buyurtmalar uchun bizga murojaat qiling! 📞💬
-📞 Telefon: +998 90 284 99 99
+📞 Telefon: +998 90 462 47 11
 """
     )
         
@@ -211,6 +211,6 @@ def EV6(update,context):
 
 🚗 **EuropeGas** yordamida, avtomobilingizni yanada samarali va ekologik toza qilish mumkin!  
 Maslahatlar va buyurtmalar uchun bizga murojaat qiling! 📞💬
-📞 Telefon: +998 90 284 99 99
+📞 Telefon: +998 90 462 47 11
 """
     )
