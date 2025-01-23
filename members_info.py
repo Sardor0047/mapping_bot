@@ -81,7 +81,7 @@ def alirizo(update,context):
     👨‍🔧 **Alirizo**  
     🔧 Mutaxassislik: Gaz tizimlari ustasi  
     🏆 Tajriba: 2013 yildan buyon gaz ustosi bolib faoliyat yuritib keladi  
-    🛠️ Maxsus Ko'nikmalar: Gaz tizimlarini o‘rnatish, Texnik xizmat ko‘rsatish, Xatoliklarni aniqlash va tuzatish
+    🛠️ Maxsus Ko'nikmalar: Gaz tizimlarini o‘rnatish, Texnik xizmat ko‘rsatish, Xatoliklarni aniqlash va tuzatish, mijozlar bilan chiqishib ketish bo'yicha expert
     📞 Telefon: +998 90 655 88 83
 """)
 
